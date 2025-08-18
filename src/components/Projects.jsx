@@ -8,7 +8,7 @@ const projects = [
     name: "This Portfolio Website",
     year: "2025",
     description: "I programmed this personal web app myself to highlight my work and progress in web development and creative tools, while also serving as a platform to practice front-end development and UI/UX design.",
-    gif: "public/assets/portfolio.gif",
+    gif: "/assets/portfolio.gif",
     link: "https://github.com/vince-tn",
     icons: [<SiReact />, <SiJavascript />, <SiCss3 />, <SiNodedotjs />]
   },
@@ -16,7 +16,7 @@ const projects = [
     name: "Random Deck Permutation",
     year: "2025",
     description: "A web app where users can shuffle a standard deck of 52 playing cards, customize it by swapping cards, and save their unique combination. if another user's deck matches partially or completely, it gets recorded on a shared leaderboard.",
-    gif: "public/assets/randomdeck.gif",
+    gif: "/assets/randomdeck.gif",
     link: "https://randomdeckpermutation.vercel.app/",
     icons: [<SiReact />, <SiJavascript />, <SiCss3 />, <SiNodedotjs />, <SiMongodb />, <SiVercel />, <SiRender />]
   },
@@ -24,7 +24,7 @@ const projects = [
     name: "Automatic Bee Monitoring System",
     year: "2024",
     description: "A Python program that monitors two beehives' entry and exit activity using 8 IR sensors via Arduino Mega. The GUI logs and displays real-time in/out detections and saves it to a CSV file.",
-    gif: "public/assets/beelog.gif",
+    gif: "/assets/beelog.gif",
     link: "https://github.com/vince-tn/Bee-Monitoring-System",
     icons: [<SiPython />, <SiPandas />, <SiCplusplus />, <SiGooglesheets />]
   },
@@ -32,7 +32,7 @@ const projects = [
     name: "Bee Activity Machine Learning",
     year: "2024",
     description: "A Python program that analyzes bee nesting and foraging activities using machine learning algorithms such as XGBoost, Random Forest, and Multilayer Perceptron to create a predictive model.",
-    gif: "public/assets/machinelearning.gif",
+    gif: "/assets/machinelearning.gif",
     link: "https://github.com/vince-tn/Bee-Activity-Machine-Learning",
     icons: [<SiPython />, <SiPandas />, <SiScikitlearn />, <SiGooglesheets />]
   },
@@ -40,7 +40,7 @@ const projects = [
     name: "SLI Meeting Reservation System",
     year: "2023",
     description: "A meeting reservation system made with AppScript in Google Spreadsheet for made for management purposes.",
-    gif: "public/assets/sli.gif",
+    gif: "/assets/sli.gif",
     link: "https://sites.google.com/sydenhamlab.com/sli-omrr",
     icons: [<SiJavascript />, <SiGooglesheets />, <SiGoogleforms />, <SiGooglecalendar />]
   },
@@ -48,7 +48,7 @@ const projects = [
     name: "Element Search Utility",
     year: "2022",
     description: "An Arduino-based line-following robot using QTR sensors and PID control.",
-    gif: "public/assets/elementsearch.gif",
+    gif: "/assets/elementsearch.gif",
     link: "https://github.com/vince-tn/Element-Dictionary",
     icons: [<SiPython />]
   }

@@ -29,7 +29,7 @@
   background-position: center;
   padding: 6rem;
   box-sizing: border-box;
-  background-image: linear-gradient(rgba(3, 49, 95, 0.414), rgba(0, 0, 0, 0.285)), url("src/assets/large-triangles.svg");
+  background-image: linear-gradient(rgba(3, 49, 95, 0.414), rgba(0, 0, 0, 0.285)), url("/assets/large-triangles.svg");
   background-size: cover;
 }
 

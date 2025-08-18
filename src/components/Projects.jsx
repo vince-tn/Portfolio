@@ -9,7 +9,7 @@ const projects = [
     year: "2025",
     description: "I programmed this personal web app myself to highlight my work and progress in web development and creative tools, while also serving as a platform to practice front-end development and UI/UX design.",
     gif: "/assets/portfolio.gif",
-    link: "https://github.com/vince-tn",
+    link: "https://paulalcantara.vercel.app/",
     icons: [<SiReact />, <SiJavascript />, <SiCss3 />, <SiNodedotjs />]
   },
   {

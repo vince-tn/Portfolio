@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
   background-image: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
-    url('/src/assets/bgimage.png');
+    url('/public/assets/bgimage.png');
   background-size: 120% 105%;
   background-position: top right;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@ footer a:hover {
     min-height: 100vh;
     background-image: 
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
-      url('/src/assets/bgimage.png');
+      url('/public/assets/bgimage.png');
     background-size: 140% 103%;
     background-position:bottom right;
     background-repeat: no-repeat;
@@ -159,7 +159,7 @@ footer a:hover {
     min-height: 100vh;
     background-image: 
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
-      url('/src/assets/bgimage.png');
+      url('/public/assets/bgimage.png');
     background-size: 140% 103%;
     background-position:bottom right;
     background-repeat: no-repeat;
@@ -193,7 +193,7 @@ footer a:hover {
     min-height: 100vh;
     background-image: 
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
-      url('/src/assets/bgimage.png');
+      url('/public/assets/bgimage.png');
     background-size: 150% 105%;
     background-position:bottom right;
     background-repeat: no-repeat;

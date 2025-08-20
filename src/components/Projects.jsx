@@ -39,7 +39,7 @@ const projects = [
   {
     name: "SLI Meeting Reservation System",
     year: "2023",
-    description: "A meeting reservation system made with AppScript in Google Spreadsheet for made for management purposes.",
+    description: "A meeting reservation system made with AppScript in Google Spreadsheet for management purposes.",
     gif: "/assets/sli.gif",
     link: "https://sites.google.com/sydenhamlab.com/sli-omrr",
     icons: [<SiJavascript />, <SiGooglesheets />, <SiGoogleforms />, <SiGooglecalendar />]

@@ -89,6 +89,22 @@
 .about-button .arrow {
     font-size: 1.5rem;
 }
+.about-icons {
+  display: flex;
+  gap: 2rem;
+  justify-content: right;
+  text-align: right;
+}
+.about-icons img {
+  width: 2rem;
+  height: 2rem;
+  transition: scale 0.3s ease;
+}
+
+.about-icons img:hover {
+  scale: 1.1;
+  opacity: 0.8;
+}
 @media (max-width: 1200px) {
   .about-section {
     border-radius: 2rem;
@@ -115,12 +131,6 @@
     font-size: 1rem;
   }
   .about-icons {
-    display: flex;
-    gap: 2rem;
-    justify-content: center;
-    text-align: center;
-}
-  .about-icons a {
     display: flex;
     gap: 2rem;
     justify-content: center;
@@ -171,7 +181,6 @@
     font-size: 0.9rem;
   }
   .about-icons {
-    display: flex;
     gap: 2rem;
     justify-content: center;
     text-align: center;
@@ -182,20 +191,4 @@
     justify-content: center;
     text-align: center;
 }
-}
-.about-icons {
-  display: flex;
-  gap: 2rem;
-  justify-content: right;
-  text-align: right;
-}
-.about-icons img {
-  width: 2rem;
-  height: 2rem;
-  transition: scale 0.3s ease;
-}
-
-.about-icons img:hover {
-  scale: 1.1;
-  opacity: 0.8;
 }

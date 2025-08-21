@@ -114,6 +114,12 @@
     padding: 0.8rem 1.5rem;
     font-size: 1rem;
   }
+  .about-icons {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    text-align: center;
+}
 }
 @media (max-width: 700px) {
   .about-section {
@@ -158,6 +164,12 @@
     padding: 0.7rem 1.5rem;
     font-size: 0.9rem;
   }
+  .about-icons {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    text-align: center;
+}
 }
 .about-icons {
   display: flex;

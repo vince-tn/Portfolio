@@ -159,6 +159,9 @@
     font-size: 0.9rem;
   }
 }
+.about-icons a {
+  gap: 2rem;
+}
 .about-icons img {
   width: 2rem;
   height: 2rem;

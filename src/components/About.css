@@ -107,8 +107,7 @@
 
 .about-icons img:hover {
   scale: 1.1;
-  opacity: 0.8;
-  filter: invert(35%) sepia(100%)
+  filter: invert(35%) sepia(100%) saturate(500%) hue-rotate(180deg) brightness(0.8);
 }
 @media (max-width: 1200px) {
   .about-section {

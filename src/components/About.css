@@ -160,6 +160,7 @@
   }
 }
 .about-icons {
+  display: flex;
   gap: 2rem;
 }
 .about-icons img {

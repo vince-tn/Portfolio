@@ -162,6 +162,8 @@
 .about-icons {
   display: flex;
   gap: 2rem;
+  justify-content: center;
+  text-align: center;
 }
 .about-icons img {
   width: 2rem;

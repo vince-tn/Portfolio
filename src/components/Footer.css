@@ -52,7 +52,7 @@
   border-radius: 6px;
   color:black;
   font-size: 1rem;
-  background-image: linear-gradient(to left, rgba(69, 80, 93, 0.772), rgba(164, 190, 240, 0.54));
+  background-image: linear-gradient(to left, rgba(231, 231, 231, 0.772), rgba(135, 165, 219, 0.484));
   animation: scrollappear ease-in;
   animation-timeline: view();
   animation-range: entry 0 cover 20%;

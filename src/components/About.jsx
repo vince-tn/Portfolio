@@ -34,19 +34,22 @@ export default function About() {
           <div className="about-text">
             <h1>About Me</h1>
             <p>
-              Hi, I'm Paul Vincent, a software developer with a growing interest in full-stack development. I enjoy building web applications using React, JavaScript, HTML, and CSS.
-            <br/><br/>Outside of coding, I also like to explore movies, TV shows, and music like everybody else.
+              Hi, I'm Paul Vincent, a software developer from the Philippines with a growing interest in full-stack development.
+            <br/><br/>Outside of coding, I also like to explore movies, books, music, and even anime just like everybody else.
             </p>
             <br/>
             <div className="about-icons">
               <a href="https://letterboxd.com/Vince_tn/" target="_blank" rel="noopener noreferrer">
                 <img src="/icons/letterboxd.svg" alt="Letterboxd" />
               </a>
-              <a href="https://myanimelist.net/profile/Vince_tn" target="_blank" rel="noopener noreferrer">
-                <img src="/icons/mal.png" alt="MyAnimeList" />
+              <a href="https://www.goodreads.com/user/show/193170110-paul-alcantara" target="_blank" rel="noopener noreferrer">
+                <img src="/icons/goodreads.png" alt="Goodreads" />
               </a>
               <a href="https://open.spotify.com/user/21ejj7gjbgpyqvi46nbkjbwdq" target="_blank" rel="noopener noreferrer">
                 <img src="/icons/spotify.png" alt="Spotify" />
+              </a>
+              <a href="https://myanimelist.net/profile/Vince_tn" target="_blank" rel="noopener noreferrer">
+                <img src="/icons/mal.png" alt="MyAnimeList" />
               </a>
             </div>
           </div>

@@ -48,7 +48,6 @@ export default function About() {
               <a href="https://open.spotify.com/user/21ejj7gjbgpyqvi46nbkjbwdq" target="_blank" rel="noopener noreferrer">
                 <img src="/icons/spotify.png" alt="Spotify" />
               </a>
-            <br/>
             </div>
           </div>
           <div className="about-button">

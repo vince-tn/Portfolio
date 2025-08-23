@@ -6,7 +6,7 @@ function scrollToSection(id, path) {
   const section = document.getElementById(id);
   if (section) {
     section.scrollIntoView({ behavior: "smooth" });
-    window.history.pushState(null, "", path); // change URL without #
+    window.history.pushState(null, "", path);
   }
 }
 

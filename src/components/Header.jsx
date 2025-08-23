@@ -1,6 +1,15 @@
 import { useState } from "react";
 import './Header.css';
 
+
+function scrollToSection(id, path) {
+  const section = document.getElementById(id);
+  if (section) {
+    section.scrollIntoView({ behavior: "smooth" });
+    window.history.pushState(null, "", path); // change URL without #
+  }
+}
+
 export default function Header() {
   const [isHovered, setIsHovered] = useState(false);
 
@@ -32,9 +41,10 @@ export default function Header() {
           <h1 id='name'>PAUL ALCANTARA</h1>
           <p id='belowname'>SOFTWARE DEVELOPER</p>
           <div className={`navmenu ${isHovered ? "shifted" : ""}`}>
-            <a href="#about"><button>About</button></a>
-            <a href="#projects"><button>Projects</button></a>
-            <a href="#footer"><button>Contacts</button></a>
+            <button onClick={() => scrollToSection("about", "/about")}>About</button>
+            <button onClick={() => scrollToSection("projects", "/projects")}>Projects</button>
+            <button onClick={() => scrollToSection("contacts", "/contacts")}>Contacts</button>
+
           </div>
         </div>
       </div>

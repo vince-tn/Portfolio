@@ -36,7 +36,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="footer" id="footer">
+    <footer className="footer" id="contacts">
       <div className="footer-container">
 
         <h2 className="footer-title">LET'S GET IN TOUCH</h2>

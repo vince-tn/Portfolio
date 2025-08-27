@@ -47,7 +47,7 @@ const projects = [
   {
     name: "Element Search Utility",
     year: "2022",
-    description: "A Python program that acts like a search query for the chemical elements based on their name, symbol, atomic number, and atomic weight along with a trivia about each of them.",
+    description: "A Python program that uses object-oriented programming concepts to act like a search query for the chemical elements based on their name, symbol, atomic number, and atomic weight along with a trivia about each of them.",
     gif: "/assets/elementsearch.gif",
     link: "https://github.com/vince-tn/Element-Dictionary",
     icons: [<SiPython />]

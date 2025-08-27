@@ -1,2 +1,3 @@
 *.js linguist-language=JavaScript
 App.css linguist-vendored
+Header.css linguist-vendored

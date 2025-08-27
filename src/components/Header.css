@@ -203,7 +203,7 @@ header {
   .flip-container {
     flex-direction: column;
     margin-top: 2rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1.5rem;
   }
 
   .flip-card {
@@ -238,7 +238,7 @@ header {
   .flip-container {
     flex-direction: column;
     margin-top: 2rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1.5rem;
   }
 
   .flip-card {

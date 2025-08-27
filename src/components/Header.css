@@ -9,7 +9,7 @@ header {
   justify-content: center;
   align-items: center;
   /* padding: 6rem 1rem; */
-  margin-bottom: -6rem;
+  margin-bottom: -5.8rem;
   box-sizing: content-box;
   min-height: 100vh;
   
@@ -68,8 +68,8 @@ header {
 }
 
 .flip-front img {
-  width: 85%;
-  height: 75%;
+  width: 80%;
+  height: 80%;
   object-fit: contain;
   filter: invert(100%) drop-shadow(1px 1px 5px #000);
 }

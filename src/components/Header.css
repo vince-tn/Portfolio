@@ -127,7 +127,7 @@ header {
   font-weight: 700;
   color: #ffffff;
   text-align: center;
-  margin-top: -2rem;
+  margin-top: -1rem;
   transition: letter-spacing 0.7s ease;
 }
 #name:hover {

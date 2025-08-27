@@ -68,7 +68,7 @@ header {
 }
 
 .flip-front img {
-  width: 80%;
+  width: 85%;
   height: 75%;
   object-fit: contain;
   filter: invert(100%) drop-shadow(1px 1px 5px #000);

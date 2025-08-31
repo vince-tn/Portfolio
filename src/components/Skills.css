@@ -81,7 +81,7 @@
   width: 80px;
   height: 80px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  filter: drop-shadow(1rem 1rem 0.4rem #08070782);
+  filter: drop-shadow(0.7rem 0.7rem 0.4rem #080707cd);
 }
 
 .skill-icon img {

@@ -131,7 +131,7 @@ header {
   transition: letter-spacing 0.7s ease;
 }
 #name:hover {
-  letter-spacing: 0.3rem;
+  /* letter-spacing: 0.3rem; */
   cursor: default;
 }
 #belowname {

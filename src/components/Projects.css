@@ -104,6 +104,7 @@
   background-image: linear-gradient(to right, rgb(28, 28, 28), rgba(20, 47, 86, 0.842));
   padding: 2rem;
   border-radius: 12px;
+  border: #c8c7c7 solid 0.4rem;
   max-width: 900px;
   width: 90%;
   color: #fff;
@@ -194,14 +195,15 @@
   align-items: center;
   width: 27rem;
   height: 17rem;
-  border-radius: 8px;
+  border-radius: 0.5rem;
   cursor: pointer;
   transition: border 0.2s ease-in-out;
+  border: #ffffff solid 0.3rem;
 }
 .modal-right img:hover {
   opacity: 0.8;
   border: #ffffff solid 0.5rem;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
 }
 @media (max-width: 900px) {
   .modal-content {

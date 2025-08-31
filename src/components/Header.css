@@ -68,10 +68,10 @@ header {
 }
 
 .flip-front img {
-  width: 90%;
-  height: 90%;
+  width: 77%;
+  height: 77%;
   object-fit: contain;
-  /* filter: invert(100%) drop-shadow(1px 1px 5px #000); */
+  filter: invert(100%) drop-shadow(1px 1px 5px #000);
 }
 
 .flip-back img {

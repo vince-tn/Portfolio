@@ -113,6 +113,8 @@
   position: relative;
   max-height: 80vh;
   overflow-y: auto;
+  animation: fadeIn 0.3s ease;
+  animation: slideDown 0.3s ease forwards;
 }
 
 .modal-left {
@@ -205,6 +207,17 @@
   border: #ffffff solid 0.5rem;
   border-radius: 0.5rem;
 }
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
 @media (max-width: 900px) {
   .modal-content {
     display:flex;

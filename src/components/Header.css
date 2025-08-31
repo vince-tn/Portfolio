@@ -143,6 +143,7 @@ header {
   margin-top: 0.5rem;
   letter-spacing: 0.5rem;
   transition: letter-spacing 0.7s ease;
+  margin-left: 0.47rem;
 }
 #belowname:hover {
   letter-spacing: 0.7rem;

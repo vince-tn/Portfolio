@@ -12,10 +12,11 @@ body {
   background-image: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
     url('/assets/bgimage.png');
-  background-size: 120% 105%;
-  background-position: top right;
+  background-size: 100% 100%;
+  /* background-position: top right; */
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment:fixed;
+  /* background-attachment:scroll; */
   color: #fff;
   overflow-x: hidden;
 }
@@ -142,13 +143,13 @@ footer a:hover {
   body {
     width: 100%;
     min-height: 100vh;
-    background-image: 
+    /* background-image: 
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
       url('/public/assets/bgimage.png');
     background-size: 140% 103%;
     background-position:bottom right;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: scroll; */
     color: #fff;
     overflow-x: hidden;
   }
@@ -157,13 +158,13 @@ footer a:hover {
   body {
     width: 100%;
     min-height: 100vh;
-    background-image: 
+    /* background-image: 
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
       url('/public/assets/bgimage.png');
     background-size: 140% 103%;
     background-position:bottom right;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: scroll; */
     color: #fff;
     overflow-x: hidden;
   }
@@ -191,13 +192,13 @@ footer a:hover {
   body {
     width: 100%;
     min-height: 100vh;
-    background-image: 
+    /* background-image: 
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 32, 71, 0.5)),
       url('/public/assets/bgimage.png');
     background-size: 150% 105%;
     background-position:bottom right;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: scroll; */
     color: #fff;
     overflow-x: hidden;
   }

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1440" height="1500" preserveAspectRatio="none" viewBox="0 0 1440 1500">
+  <g mask="url(#SvgjsMask1629)" fill="none">
+    <!-- background rectangle with very dark teal gradient -->
+    <rect width="1440" height="1500" x="0" y="0" fill="url(#BackgroundGradient)"></rect>
+
+    <path d="M138 1500L1638 0L2299.5 0L799.5 1500z" fill="url(#SvgjsLinearGradient1630)"></path>
+    <path d="M1319 1500L-181 0L-367 0L1133 1500z" fill="url(#SvgjsLinearGradient1631)"></path>
+    <path d="M632.9042781897994 1500L1440 692.9042781897994L1440 1500z" fill="url(#SvgjsLinearGradient1630)"></path>
+    <path d="M0 1500L807.0957218102006 1500L 0 692.9042781897994z" fill="url(#SvgjsLinearGradient1631)"></path>
+  </g>
+  <defs>
+    <mask id="SvgjsMask1629">
+      <rect width="1440" height="1500" fill="#ffffff"></rect>
+    </mask>
+
+    <!-- Very dark teal, softer opacity -->
+    <linearGradient id="BackgroundGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06262c" stop-opacity="0"></stop>
+      <stop offset="100%" stop-color="#06262c" stop-opacity="0.5"></stop>
+    </linearGradient>
+
+    <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="SvgjsLinearGradient1630">
+      <stop stop-color="rgba(15, 70, 185, 0.15)" stop-opacity="0" offset="0"></stop>
+      <stop stop-color="rgba(15, 70, 185, 0.15)" stop-opacity="0.8" offset="1"></stop>
+    </linearGradient>
+    <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="SvgjsLinearGradient1631">
+      <stop stop-color="rgba(15, 70, 185, 0.15)" stop-opacity="0" offset="0"></stop>
+      <stop stop-color="rgba(15, 70, 185, 0.15)" stop-opacity="0.8" offset="1"></stop>
+    </linearGradient>
+  </defs>
+</svg>

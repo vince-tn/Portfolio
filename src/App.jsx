@@ -10,10 +10,13 @@ function App() {
   return (
     <>
       <Header />
-      <About />
-      <Projects/>
-      <Skills/>
-      <Footer/>
+      {/* <About /> */}
+      <div className="bg-wrapped">
+        <About />
+        <Projects/>
+        <Skills/>
+        <Footer/>
+      </div>
     </>
   );
 }

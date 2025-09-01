@@ -49,9 +49,9 @@
   flex: 1;
   min-width: 280px;
   max-width: 350px;
-  animation: scrollappear ease-in;
+  /* animation: scrollappear ease-in;
   animation-timeline: view();
-  animation-range: entry 0 cover 40%;
+  animation-range: entry 0 cover 40%; */
 }
 
 .skills-column h2 {
@@ -60,6 +60,9 @@
   color: #fff;
   filter: drop-shadow(1rem 1rem 0.4rem #08070782);
   transition: letter-spacing 0.7s ease;
+  animation: scrollappear ease-in;
+  animation-timeline: view();
+  animation-range: entry 0 cover 40%;
 }
 .skills-column h2:hover {
   cursor: default;
@@ -70,6 +73,7 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
   justify-items: center;
+
 }
 
 .skill-icon {
@@ -82,6 +86,9 @@
   height: 80px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   filter: drop-shadow(0.7rem 0.7rem 0.4rem #080707cd);
+  animation: scrollappear ease-in;
+  animation-timeline: view();
+  animation-range: entry 0 cover 30%;
 }
 
 .skill-icon img {

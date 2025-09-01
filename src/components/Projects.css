@@ -18,9 +18,9 @@
   gap: 1rem;
   max-width: 50rem;
   margin: 2rem auto;
-  animation: scrollappear ease-in;
+  /* animation: scrollappear ease-in;
   animation-timeline: view();
-  animation-range: entry 0 cover 40%;
+  animation-range: entry 0 cover 40%; */
 }
 #projects{
     margin-top: -5rem;
@@ -70,6 +70,9 @@
   font-size: 1.1rem;
   transition: background 0.5s ease;
   filter: drop-shadow(0px 1rem 0.5rem #08070782);
+  animation: scrollappear ease-in;
+  animation-timeline: view();
+  animation-range: entry 0 cover 40%;
 }
 
 .project-item:hover {

@@ -1,3 +1,12 @@
+@keyframes scrollappear {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
 .about-section {
   width: 100%;
   display: flex;
@@ -32,6 +41,9 @@
   background-image: linear-gradient(to right, rgba(62, 42, 3, 0.334), rgba(3, 49, 95, 0.414)), url("/assets/large-triangles.svg");
   background-size: cover;
   filter: drop-shadow(0px 1rem 0.7rem #08070782);
+  animation: scrollappear ease-in;
+  animation-timeline: view();
+  animation-range: entry 0 cover 20%;
 }
 
 .about-content {

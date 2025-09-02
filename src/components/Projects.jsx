@@ -9,7 +9,7 @@ const projects = [
     year: "2025",
     description: "I programmed this personal web app myself to highlight my work and progress in web development and creative tools, while also serving as a platform to practice front-end development and UI/UX design.",
     gif: "/assets/portfolio.gif",
-    link: "https://paulalcantara.vercel.app/",
+    link: "https://github.com/vince-tn/Portfolio",
     icons: [<SiReact />, <SiJavascript />, <SiCss3 />, <SiNodedotjs />]
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     year: "2025",
     description: "A web app where users can shuffle a standard deck of 52 playing cards, customize it by swapping cards, and save their unique combination. if another user's deck matches partially or completely, it gets recorded on a shared leaderboard.",
     gif: "/assets/randomdeck.gif",
-    link: "https://randomdeckpermutation.vercel.app/",
+    link: "https://www.randomdeckpermutation.xyz/",
     icons: [<SiReact />, <SiJavascript />, <SiCss3 />, <SiNodedotjs />, <SiMongodb />, <SiVercel />, <SiRender />]
   },
   {

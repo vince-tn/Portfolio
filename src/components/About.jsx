@@ -56,7 +56,7 @@ export default function About() {
           <div className="about-button">
             <button
               onClick={() => window.open(
-                "https://docs.google.com/document/d/1LHlS8IWgGzowQJ9I6tNBINULDhjaufLXNWCA8ZKG5qM/edit?usp=sharing",
+                "https://drive.google.com/file/d/1eJGj_DXfvW37jKMgg3A5RHoutqDC5GrL/view?usp=sharing",
                 "_blank"
               )}
               >

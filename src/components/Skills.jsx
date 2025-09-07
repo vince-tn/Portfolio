@@ -18,10 +18,10 @@ const skillsData = {
     { name: "JavaScript", icon: "/icons/javascript.png", link: "https://www.javascript.com/" },
     { name: "HTML", icon: "/icons/html.png", link: "https://developer.mozilla.org/en-US/docs/Web/HTML" },
     { name: "CSS", icon: "/icons/css.png", link: "https://developer.mozilla.org/en-US/docs/Web/CSS" },
+    { name: "Tailwind CSS", icon: "/icons/tailwind.png", link: "https://tailwindcss.com/" },
     { name: "Git", icon: "/icons/git.png", link: "https://git-scm.com/" },
     { name: "Github", icon: "/icons/github.png", link: "https://github.com/" },
     { name: "Vercel", icon: "/icons/vercel.png", link: "https://vercel.com/" },
-    { name: "Render", icon: "/icons/render.png", link: "https://render.com/" },
     { name: "Node.js", icon: "/icons/node.png", link: "https://nodejs.org/" },
     { name: "MongoDB", icon: "/icons/mongodb.png", link: "https://www.mongodb.com/" }
   ],
@@ -29,8 +29,8 @@ const skillsData = {
     { name: "Arduino", icon: "/icons/arduino.png", link: "https://www.arduino.cc/" },
     { name: "MATLAB", icon: "/icons/matlab.png", link: "https://www.mathworks.com/products/matlab.html" },
     { name: "Weka", icon: "/icons/weka.png", link: "https://www.weka.io/" },
-    { name: "Nmap", icon: "/icons/nmap.png", link: "https://nmap.org/" }
-  
+    { name: "Nmap", icon: "/icons/nmap.png", link: "https://nmap.org/" },
+    { name: "Render", icon: "/icons/render.png", link: "https://render.com/" }
   ],
 };
 

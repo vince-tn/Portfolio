@@ -25,7 +25,7 @@ export default function Header() {
             <div className="flip-card">
               <div className="flip-inner">
                 <div className="flip-front">
-                  <img src="/assets/favicon.png" alt="Front Image" />
+                  <img src="/assets/logo.png" alt="Front Image" />
                 </div>
                 <div className="flip-back">
                   <img src="/assets/profpic.png" alt="Back Image" />

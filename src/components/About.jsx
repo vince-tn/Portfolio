@@ -34,7 +34,7 @@ export default function About() {
           <div className="about-text">
             <h1>About Me</h1>
             <p>
-              Hi, I'm Paul Vincent, a software developer from the Philippines with a growing interest in full-stack development.
+              Hi, I'm Paul Vincent, a software developer from the Philippines with a growing interest in front-end development.
             <br/><br/>Outside of coding, I also like to explore movies, books, music, and even anime just like everybody else.
             </p>
             <br/>

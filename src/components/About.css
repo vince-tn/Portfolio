@@ -66,11 +66,13 @@
   /* margin-top: -1rem; */
     font-size: 4rem;
     margin-bottom: 1rem;
+    font-family: "Sansation", sans-serif;
 }
 
 .about-text p {
-    font-size: 1.1rem;
+    font-size: 1.085rem;
     line-height: 1.6;
+    font-family: "Sansation", sans-serif;
 }
 
 .about-button {

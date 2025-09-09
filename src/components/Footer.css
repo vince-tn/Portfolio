@@ -31,6 +31,7 @@
   animation: scrollappear ease-in;
   animation-timeline: view();
   animation-range: entry 0 cover 40%;
+  font-family: "Sansation", sans-serif;
 }
 .footer-title:hover {
   cursor: default;

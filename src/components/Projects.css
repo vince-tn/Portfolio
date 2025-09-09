@@ -47,12 +47,13 @@
     text-align: center;
     margin-left: 0.6rem;
     font-size: 4rem;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.2rem;
     filter: drop-shadow(0px 1rem 3px #08070782);
     animation: scrollappear ease-in;
     animation-timeline: view();
     animation-range: entry 0 cover 40%;
     transition: letter-spacing 0.7s ease;
+    font-family: "Sansation", sans-serif;
 }
 #projectstitle:hover{
   cursor: default;
@@ -81,13 +82,16 @@
 }
 
 .project-name {
-  font-weight: bold;
+  font-weight: 700;
   text-align: left;
+  font-family: "Sansation", sans-serif;
 }
 
 .project-year {
   opacity: 0.7;
   padding-left: 0.5rem;
+  font-weight: 700;
+  font-family: "Sansation", sans-serif;
 }
 /* modal */
 .modal-overlay {

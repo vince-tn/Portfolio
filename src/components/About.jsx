@@ -40,7 +40,7 @@ export default function About() {
             <br/>
             <div className="about-icons">
               <a href="https://letterboxd.com/Vince_tn/" target="_blank" rel="noopener noreferrer">
-                <img src="/icons/letterboxd.svg" alt="Letterboxd" />
+                <img src="/icons/letterboxd.png" alt="Letterboxd" />
               </a>
               <a href="https://www.goodreads.com/user/show/193170110-paul-alcantara" target="_blank" rel="noopener noreferrer">
                 <img src="/icons/goodreads.png" alt="Goodreads" />

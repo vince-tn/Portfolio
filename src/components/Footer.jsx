@@ -78,7 +78,10 @@ export default function Footer() {
           <a href="https://www.linkedin.com/in/paul-alcantara/"><img src="/icons/linkedin.png" alt="LinkedIn" /></a>
           <a href="https://www.reddit.com/user/vince_tn/"><img src="/icons/reddit.png" alt="Reddit" /></a>
         </div>
-
+      </div>
+      <div className= "footer-message">
+        <br></br>
+        <p className="finalwords">© 2025 Paul Alcantara. All rights reserved.</p>
       </div>
     </footer>
   );

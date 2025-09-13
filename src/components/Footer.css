@@ -98,3 +98,7 @@
 .social-icons img:hover {
   transform: scale(1.1);
 }
+.finalwords {
+  font-size: 0.9rem;
+  color: #ffffffc4;
+}

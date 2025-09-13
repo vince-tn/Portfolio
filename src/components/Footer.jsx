@@ -75,6 +75,7 @@ export default function Footer() {
           <a href="https://github.com/vince-tn"><img src="/icons/github.png" alt="GitHub" /></a>
           <a href="tel:+639763291859"><img src="/icons/phone.png" alt="Phone" /></a>
           <a href="mailto:paulvincentj.alcantara@gmail.com"><img src="/icons/email.png" alt="Email" /></a>
+          <a href="https://www.linkedin.com/in/paul-alcantara/"><img src="/icons/linkedin.png" alt="LinkedIn" /></a>
           <a href="https://www.reddit.com/user/vince_tn/"><img src="/icons/reddit.png" alt="Reddit" /></a>
         </div>
 

@@ -41,9 +41,9 @@ export default function Header() {
           <h1 id='name'>PAUL ALCANTARA</h1>
           <p id='belowname'>SOFTWARE DEVELOPER</p>
           <div className={`navmenu ${isHovered ? "shifted" : ""}`}>
-            <button onClick={() => scrollToSection("about", "/about")}>About</button>
-            <button onClick={() => scrollToSection("projects", "/projects")}>Projects</button>
-            <button onClick={() => scrollToSection("contacts", "/contacts")}>Contacts</button>
+            <button onClick={() => scrollToSection("about", "#about")}>About</button>
+            <button onClick={() => scrollToSection("projects", "#projects")}>Projects</button>
+            <button onClick={() => scrollToSection("contacts", "#contacts")}>Contacts</button>
 
           </div>
         </div>

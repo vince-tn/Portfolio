@@ -81,7 +81,7 @@ export default function Footer() {
       </div>
       <div className= "footer-message">
         <br></br>
-        <p className="finalwords">© 2025 Paul Alcantara. All rights reserved.</p>
+        <p className="finalwords">© 2025 Paul Alcantara</p>
       </div>
     </footer>
   );

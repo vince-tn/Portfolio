@@ -21,7 +21,7 @@ const projects = [
     icons: [<SiReact />, <SiJavascript />, <SiCss3 />, <SiNodedotjs />, <SiMongodb />, <SiVercel />, <SiRender />]
   },
   {
-    name: "Keystroke Efficiency Test",
+    name: "Keystroke Test",
     year: "2025",
     description: "A lightweight typing challenge web app where users practice by completing coding-related keystroke exercises. Features randomized challenges, keystroke tracking, and helpful hints to improve speed and accuracy.",
     gif: "/assets/keystroketest.gif",

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./Projects.css";
-import { SiReact, SiPandas, SiCss3, SiScikitlearn, SiMongodb, SiVercel, SiRender, SiNodedotjs, SiPython, SiCplusplus, SiJavascript, SiGoogleforms, SiGooglesheets, SiGooglecalendar } from "react-icons/si";
+import { SiHtml5, SiReact, SiPandas, SiCss3, SiScikitlearn, SiMongodb, SiVercel, SiRender, SiNodedotjs, SiPython, SiCplusplus, SiJavascript, SiGoogleforms, SiGooglesheets, SiGooglecalendar } from "react-icons/si";
 
 
 const projects = [
@@ -19,6 +19,14 @@ const projects = [
     gif: "/assets/randomdeck.gif",
     link: "https://www.randomdeckpermutation.xyz/",
     icons: [<SiReact />, <SiJavascript />, <SiCss3 />, <SiNodedotjs />, <SiMongodb />, <SiVercel />, <SiRender />]
+  },
+  {
+    name: "Keystroke Efficiency Test",
+    year: "2025",
+    description: "A lightweight typing challenge web app where users practice by completing coding-related keystroke exercises. Features randomized challenges, keystroke tracking, and helpful hints to improve speed and accuracy.",
+    gif: "/assets/keystroketest.gif",
+    link: "https://www.keystroketest.site/",
+    icons: [<SiHtml5 />, <SiJavascript />, <SiCss3 />, <SiVercel />]
   },
   {
     name: "Automatic Bee Monitoring System",

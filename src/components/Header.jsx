@@ -32,11 +32,11 @@ export default function Header() {
                 </div>
               </div>
             </div>
-            <div className={`flip-text ${isHovered ? "visible" : ""}`}>
+            {/* <div className={`flip-text ${isHovered ? "visible" : ""}`}>
               <p>
                 I'm a Software Developer from the Philippines, specializing in creating functional web applications and exploring new technologies.
               </p>
-            </div>
+            </div> */}
           </div>
           <h1 id='name'>PAUL ALCANTARA</h1>
           <p id='belowname'>SOFTWARE DEVELOPER</p>

@@ -34,7 +34,7 @@ export default function About() {
           <div className="about-text">
             <h1>About Me</h1>
             <p>
-              Hi, I'm Paul Vincent, a Software Developer with strong foundation in JavaScript, ReactJS, HTML, CSS and Python.
+              I'm a Software Developer with strong foundation in JavaScript, ReactJS, VueJS, HTML, CSS and Python.
             <br/><br/>Outside of coding, I also like to explore movies, books, music, and even anime just like everybody else.
             </p>
             <br/>

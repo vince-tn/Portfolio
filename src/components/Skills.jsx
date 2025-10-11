@@ -15,6 +15,7 @@ const skillsData = {
   developer: [
     { name: "Python", icon: "/icons/python.png", link: "https://www.python.org/" },
     { name: "React.js", icon: "/icons/react.png", link: "https://react.dev/" },
+    { name: "Vue.js", icon: "/icons/vue.png", link: "https://vuejs.org/" },
     { name: "JavaScript", icon: "/icons/javascript.png", link: "https://www.javascript.com/" },
     { name: "HTML", icon: "/icons/html.png", link: "https://developer.mozilla.org/en-US/docs/Web/HTML" },
     { name: "CSS", icon: "/icons/css.png", link: "https://developer.mozilla.org/en-US/docs/Web/CSS" },
